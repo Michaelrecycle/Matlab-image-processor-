@@ -1,4 +1,4 @@
-#matlab-image-processing
+# Matlab Image Processing
 
 Combine multiple action shot images into one or remove action to produce a clean image using MATLAB
 
